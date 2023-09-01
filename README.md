@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Shin-da
-- 👀 I’m interested in programming
+- 👋 Hi, I’m Jeff Mathew Garcia
+- 👀 I’m interested in art, computers and programming
 - 🌱 I’m currently learning web designing
 
 
