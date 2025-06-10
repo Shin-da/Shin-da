@@ -30,11 +30,11 @@ A passionate IT graduate who bridges the gap between technology and creativity. 
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Shin-da/Wedding-Invitation-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shin-da&repo=Wedding-Invitation-Website&theme=react" />
-  </a>
   <a href="https://github.com/Shin-da/HFC-MANAGEMENT">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shin-da&repo=HFC-MANAGEMENT&theme=react" />
+  </a>
+  <a href="https://github.com/Shin-da/Wedding-Invitation-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shin-da&repo=Wedding-Invitation-Website&theme=react" />
   </a>
 </div>
 
