@@ -9,6 +9,7 @@ A passionate IT graduate who bridges the gap between technology and creativity. 
 
 - 🎓 BS Information Technology graduate
 - 💼 Former Developer and AI Prompt Engineer at SP Madrid & Associates
+- 🎨 Freelance Web Developer
 - 🌱 Currently exploring AI and Machine Learning
 - 🎨 Creating art in my free time
 - 📍 San Pedro City, Philippines
@@ -33,10 +34,25 @@ A passionate IT graduate who bridges the gap between technology and creativity. 
   <a href="https://github.com/Shin-da/henrich-food-corporation-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shin-da&repo=henrich-food-corporation-system&theme=react&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&bg_color=0d1117&hide_border=true" />
   </a>
-  <a href="https://github.com/Shin-da/Wedding-Invitation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shin-da&repo=Wedding-Invitation&theme=react&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&bg_color=0d1117&hide_border=true" />
+  
+  <a href="https://github.com/Shin-da/wedding-invitation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shin-da&repo=wedding-invitation&theme=react&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&bg_color=0d1117&hide_border=true" />
   </a>
+  
+  <!-- Wedding Invitation Preview -->
+  <div style="margin-top: 10px;">
+    <a href="https://shin-da.github.io/wedding-invitation" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Preview-View_Wedding_Invitation-2ea44f?style=for-the-badge&logo=github" alt="Live Preview" />
+    </a>
+  </div>
 </div>
+
+## 💼 Recent Work
+
+- 🎉 Commissioned Wedding Invitation Website (2023-2025)
+  - Developed a modern, responsive wedding invitation website
+  - Features: Interactive timeline, photo gallery, Google Maps integration
+  - Tech stack: HTML5, CSS3, JavaScript, Bootstrap 5
 
 ## 📊 GitHub Analytics
 
