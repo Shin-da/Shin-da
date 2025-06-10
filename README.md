@@ -5,12 +5,12 @@
 </div>
 
 ## 🎯 About Me
-A passionate IT graduate who bridges the gap between technology and creativity. I specialize in web development while nurturing a deep love for digital art.
+A passionate IT graduate who bridges the gap between technology and creativity. I specialize in web development while nurturing a deep love for art.
 
 - 🎓 BS Information Technology graduate
 - 💼 Former Developer and AI Prompt Engineer at SP Madrid & Associates
 - 🌱 Currently exploring AI and Machine Learning
-- 🎨 Creating digital art in my free time
+- 🎨 Creating art in my free time
 - 📍 San Pedro City, Philippines
 
 ## 💻 Tech Stack
@@ -47,7 +47,7 @@ A passionate IT graduate who bridges the gap between technology and creativity. 
 </div>
 
 ## 🎨 Art & Design
-- Digital Illustration
+- Illustrations
 - UI/UX Design
 - Character Design
 - Traditional Art
