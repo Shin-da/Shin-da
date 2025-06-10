@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Jeff Mathew Garcia
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=435&lines=Web+Developer+%F0%9F%92%BB;Digital+Artist+%F0%9F%8E%A8;AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=435&lines=Web+Developer+%F0%9F%92%BB;Artist+%F0%9F%8E%A8;AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
 ## 🎯 About Me
