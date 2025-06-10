@@ -31,10 +31,10 @@ A passionate IT graduate who bridges the gap between technology and creativity. 
 
 <div align="center">
   <a href="https://github.com/Shin-da/HFC-MANAGEMENT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shin-da&repo=HFC-MANAGEMENT&theme=react" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shin-da&repo=HFC-MANAGEMENT&theme=react&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&bg_color=0d1117&hide_border=true" />
   </a>
   <a href="https://github.com/Shin-da/Wedding-Invitation-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shin-da&repo=Wedding-Invitation-Website&theme=react" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shin-da&repo=Wedding-Invitation-Website&theme=react&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&bg_color=0d1117&hide_border=true" />
   </a>
 </div>
 
