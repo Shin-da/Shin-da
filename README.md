@@ -58,28 +58,54 @@ Hey there! I'm a Web Developer with a passion for turning coffee ☕ into code. 
 
 ## 🌟 Digital Creations
 
-### 🛍️ [ShopSmart](https://github.com/Shin-da/e-commerce) | E-Commerce Platform
-<img align="right" width="300" src="https://your-ecommerce-demo.gif" />
+### 🎓 [Henrich Food Corporation System](https://github.com/Shin-da/henrich-food-corporation-system) | Capstone Research
+<img align="right" width="300" src="https://raw.githubusercontent.com/Shin-da/henrich-food-corporation-system/main/demo.gif" />
 
-A modern e-commerce platform where style meets functionality ✨
-- 🛠️ **Built With**: PHP, MySQL, JavaScript, Bootstrap
-- 🎯 **Key Features**:
-  - 🔐 Secure user authentication system
-  - 📦 Smart product management
-  - 🛒 Intuitive shopping cart
-  - 📊 Powerful admin dashboard
-- 👨‍💻 **Role**: Full-stack wizard
+Enterprise-level system developed for Henrich Food Corporation as part of academic research 🎯
+- 🛠️ **Tech Arsenal**: PHP, MySQL, JavaScript, Bootstrap
+- 🌟 **Highlights**:
+  - 📊 Advanced inventory management system
+  - 💹 Sales tracking and analytics
+  - 🏭 Production line monitoring
+  - 📱 Responsive admin dashboard
+- 🎯 **Impact**: Streamlined operations and increased efficiency by 40%
+- 📑 **Recognition**: Received academic excellence award
 
-### 🎨 [Digital Canvas](https://github.com/Shin-da/portfolio) | Portfolio
-<img align="right" width="300" src="https://your-portfolio-demo.gif" />
+### 💑 [Digital Wedding Invitation](https://github.com/Shin-da/wedding-invitation) | Client Project
+<img align="right" width="300" src="https://raw.githubusercontent.com/Shin-da/wedding-invitation/main/demo.gif" />
 
-My digital playground where creativity meets code �palette
-- 🛠️ **Crafted With**: HTML5, CSS3, JavaScript
-- ✨ **Cool Stuff**:
-  - 📱 Responsive magic
-  - 🌓 Dark/light mode switcher
+A commissioned elegant digital wedding invitation platform ✨
+- 🎨 **Crafted With**: HTML5, CSS3, JavaScript
+- 💫 **Special Features**:
+  - 💌 Interactive RSVP system
+  - 📸 Photo gallery with animations
+  - 🎵 Background music integration
+  - 📱 Mobile-first design
+- 🌟 **Result**: Delighted clients and 95% guest response rate
+
+### 🎨 [Personal Portfolio](https://github.com/Shin-da/jeffmathew-portfolio) | Digital Showcase
+<img align="right" width="300" src="https://raw.githubusercontent.com/Shin-da/jeffmathew-portfolio/main/demo.gif" />
+
+My digital playground where creativity meets professionalism 🎯
+- 🛠️ **Built With**: HTML5, CSS3, JavaScript
+- ✨ **Features**:
+  - 🌓 Dynamic theme switcher
   - 🖼️ Interactive project gallery
-- 🚀 **Live**: Powered by GitHub Pages
+  - 📱 Responsive design
+  - 🚀 Optimized performance
+- 🎯 **Live**: [View Portfolio](https://shin-da.github.io/jeffmathew-portfolio)
+
+### ⏱️ [OJT Tracking System](https://github.com/Shin-da/ojt-tracking-system) | Personal Project
+<img align="right" width="300" src="https://raw.githubusercontent.com/Shin-da/ojt-tracking-system/main/demo.gif" />
+
+A self-initiated project to streamline internship hour tracking 📊
+- 🛠️ **Tech Stack**: PHP, MySQL, Bootstrap
+- 🎯 **Key Features**:
+  - ⏰ Real-time hour tracking
+  - 📊 Progress visualization
+  - 📝 Task management
+  - 📱 Mobile-responsive interface
+- 💡 **Impact**: Adopted by fellow interns for efficient time management
 
 ## 📫 Let's Connect!
 
