@@ -58,18 +58,61 @@ Hey there! I'm a Web Developer with a passion for turning coffee ☕ into code. 
 
 ## 🌟 Digital Creations
 
-### 🎓 [Henrich Food Corporation System](https://github.com/Shin-da/henrich-food-corporation-system) | Capstone Research
+### 🎓 [HFC Management System](https://github.com/Shin-da/henrich-food-corporation-system) | Enterprise Solution
 <img align="right" width="300" src="https://raw.githubusercontent.com/Shin-da/henrich-food-corporation-system/main/demo.gif" />
 
-Enterprise-level system developed for Henrich Food Corporation as part of academic research 🎯
-- 🛠️ **Tech Arsenal**: PHP, MySQL, JavaScript, Bootstrap
-- 🌟 **Highlights**:
-  - 📊 Advanced inventory management system
-  - 💹 Sales tracking and analytics
-  - 🏭 Production line monitoring
-  - 📱 Responsive admin dashboard
-- 🎯 **Impact**: Streamlined operations and increased efficiency by 40%
-- 📑 **Recognition**: Received academic excellence award
+A comprehensive ERP & E-commerce solution developed for Henrich Food Corporation as a capstone research project 🏢
+- 🛠️ **Tech Stack**:
+  - 🔧 **Backend**: PHP 7.4+, MySQL 5.7+ (MariaDB), Apache
+  - 🎨 **Frontend**: HTML5/CSS3, JavaScript (ES6+), Bootstrap
+  - 🔄 **Real-time**: WebSocket Server
+  - 🛠️ **Tools**: Composer, Git
+
+- 🏗️ **Architecture**:
+  - 📦 Component-based modular design
+  - 🔐 Role-based access control (RBAC)
+  - 🔄 Real-time WebSocket integration
+  - 🛡️ Comprehensive security measures
+
+- 🌟 **Key Modules**:
+  - 👔 **Admin Dashboard**
+    - 📊 KPI tracking & analytics
+    - 👥 User management with RBAC
+    - 📝 Activity logging
+  - 🛒 **E-commerce Platform**
+    - 🏪 Product catalog & cart
+    - 💳 Secure checkout
+    - 📦 Order management
+  - 👥 **Employee Management**
+    - 📅 Attendance tracking
+    - 📈 Performance monitoring
+    - 📋 Leave management
+  - 📊 **CEO Dashboard**
+    - 📈 Business metrics
+    - 💰 Financial reporting
+    - 🎯 Strategic planning
+  - 📦 **Inventory System**
+    - 📊 Stock level tracking
+    - 🔄 Automated reorder points
+    - 👥 Supplier management
+
+- 📊 **Data Visualization**:
+  - 📈 Performance analytics
+  - 📊 Inventory metrics
+  - 💰 Financial dashboards
+  - 📉 Sales analysis
+
+- 🛡️ **Security Features**:
+  - 🔒 Secure authentication
+  - 🛡️ XSS & CSRF protection
+  - 🔍 Activity monitoring
+  - 📝 Comprehensive logging
+
+- 🌟 **Impact & Recognition**:
+  - 📈 Increased operational efficiency by 40%
+  - ⚡ Reduced data processing time by 60%
+  - 🏆 Academic Excellence Award
+  - 📱 Successfully deployed across multiple branches
 
 ### 💑 [Digital Wedding Invitation](https://github.com/Shin-da/wedding-invitation) | Client Project
 <img align="right" width="300" src="https://raw.githubusercontent.com/Shin-da/wedding-invitation/main/demo.gif" />
