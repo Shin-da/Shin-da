@@ -94,6 +94,7 @@ Hey there! I am a passionate IT graduate who bridges the gap between technology 
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Production-success?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Award-Academic_Excellence-gold?style=for-the-badge" />
   </p>
 </div>
 
@@ -229,23 +230,6 @@ My digital playground where creativity meets professionalism 🎯
   - 🤝 Adopted by multiple departments
   - 🌟 Featured in academic tech showcase
 
-## 📫 Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffmathew-garcia-a1b636347/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shin-da)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://shin-da.github.io/jeffmathew-portfolio)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffmathewg@gmail.com)
-
-### 🎨 Social & Art Platforms
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jepmachu/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jepmachu)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jepmachu)
-
-</div>
-
 ### 🎬 [My Anime List](https://github.com/Shin-da/my-anime-list) | Personal Project
 
 <div align="center">
@@ -278,6 +262,25 @@ My digital playground where creativity meets professionalism 🎯
   - 💾 NoSQL Database Management
   - 🎯 User Experience Design
   - 🚀 Modern JavaScript Practices
+
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffmathew-garcia-a1b636347/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shin-da)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://shin-da.github.io/jeffmathew-portfolio)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffmathewg@gmail.com)
+
+### 🎨 Social & Art Platforms
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jepmachu/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jepmachu)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jepmachu)
+
+</div>
+
 
 ## 🎯 Current Adventures
 
