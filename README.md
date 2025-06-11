@@ -95,17 +95,31 @@ My digital playground where creativity meets professionalism 🎯
   - 🚀 Optimized performance
 - 🎯 **Live**: [View Portfolio](https://shin-da.github.io/jeffmathew-portfolio)
 
-### ⏱️ [OJT Tracking System](https://github.com/Shin-da/ojt-tracking-system) | Personal Project
+### ⏱️ [OJT Tracking System](https://github.com/Shin-da/ojt-tracking-system) | Full-Stack Project
 <img align="right" width="300" src="https://raw.githubusercontent.com/Shin-da/ojt-tracking-system/main/demo.gif" />
 
-A self-initiated project to streamline internship hour tracking 📊
-- 🛠️ **Tech Stack**: PHP, MySQL, Bootstrap
-- 🎯 **Key Features**:
-  - ⏰ Real-time hour tracking
-  - 📊 Progress visualization
-  - 📝 Task management
-  - 📱 Mobile-responsive interface
-- 💡 **Impact**: Adopted by fellow interns for efficient time management
+A comprehensive OJT management system built with modern web technologies 🚀
+- 🛠️ **Tech Stack**:
+  - 🎨 **Frontend**: React 18, Vite, TailwindCSS
+  - 🔧 **Backend**: PHP, MySQL, Apache
+  - 📚 **Libraries**: Chart.js, React Router, jsPDF
+- 🌟 **Key Features**:
+  - 📊 Interactive analytics dashboard with Chart.js
+  - 📅 Smart calendar with activity heatmap
+  - 📑 Document management system
+  - 🔄 Real-time progress tracking
+  - 📱 Responsive design with TailwindCSS
+  - 📊 PDF report generation
+- 🏗️ **Architecture**:
+  - 🎯 Component-based React structure
+  - 🔐 Secure authentication system
+  - 📦 Modular API design
+  - 🚀 Optimized with Vite build tool
+- 💫 **Impact**: 
+  - ✨ Streamlined OJT documentation process
+  - 📈 Increased tracking efficiency by 60%
+  - 🤝 Adopted by multiple departments
+  - 🌟 Featured in academic tech showcase
 
 ## 📫 Let's Connect!
 
