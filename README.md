@@ -78,8 +78,16 @@ Hey there! I am a passionate IT graduate who bridges the gap between technology 
     <a href="https://github.com/Shin-da/jeffmathew-portfolio">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shin-da&repo=jeffmathew-portfolio&theme=tokyonight" />
     </a>
+    <a href="https://github.com/josellecallora08/lark-automation-trainees">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=josellecallora08&repo=lark-automation-trainees&theme=tokyonight" />
+    </a>
+  </p>
+  <p align="center">
     <a href="https://github.com/Shin-da/ojt-tracking-system">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shin-da&repo=ojt-tracking-system&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/Shin-da/my-anime-list">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shin-da&repo=my-anime-list&theme=tokyonight" />
     </a>
   </p>
 </div>
@@ -94,7 +102,6 @@ Hey there! I am a passionate IT graduate who bridges the gap between technology 
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Production-success?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Award-Academic_Excellence-gold?style=for-the-badge" />
   </p>
 </div>
 
@@ -229,6 +236,37 @@ My digital playground where creativity meets professionalism 🎯
   - 📈 Increased tracking efficiency by 60%
   - 🤝 Adopted by multiple departments
   - 🌟 Featured in academic tech showcase
+
+### 🎓 [Gradify](https://github.com/josellecallora08/lark-automation-trainees) | Open Source Contribution
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/josellecallora08/lark-automation-trainees/main/demo.gif" alt="Gradify Demo"/>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Role-Core_Contributor-brightgreen?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Tech-Python-blue?style=for-the-badge&logo=python" />
+    <img src="https://img.shields.io/badge/Type-Assessment_System-orange?style=for-the-badge" />
+  </p>
+</div>
+
+> A sophisticated Python-based assessment system that revolutionizes trainee evaluation through asynchronous task processing. Contributing to the core functionality of trainee evaluation, helping shape the future of educational technology. 🎯
+
+- 🛠️ **Contribution Areas**:
+  ```text
+  Core Development : Evaluate Trainees Module
+  Implementation  : Asynchronous Processing
+  Focus          : Performance & Scalability
+  ```
+- 🌟 **Technical Highlights**:
+  - ⚡ Asynchronous task processing architecture
+  - 📊 Advanced trainee evaluation algorithms
+  - 🔄 Real-time assessment processing
+  - 📈 Scalable system design
+- 💫 **Impact**:
+  - 🎯 Streamlined evaluation process
+  - ⚡ Enhanced processing efficiency
+  - 🤝 Improved assessment accuracy
+  - 📚 Contributed to educational technology
 
 ### 🎬 [My Anime List](https://github.com/Shin-da/my-anime-list) | Personal Project
 
