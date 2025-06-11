@@ -94,7 +94,6 @@ Hey there! I am a passionate IT graduate who bridges the gap between technology 
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Production-success?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Award-Academic_Excellence-gold?style=for-the-badge" />
   </p>
 </div>
 
