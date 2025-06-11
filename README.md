@@ -6,6 +6,14 @@
   <img src="https://raw.githubusercontent.com/Shin-da/Shin-da/main/assets/coding.gif" width="500" />
 </div>
 
+## 📋 Table of Contents
+- [About Me](#-about-me--the-artist-developer)
+- [Technical Skills](#️-technical-arsenal--creative-tools)
+- [Featured Projects](#-featured-projects)
+- [GitHub Analytics](#-github-analytics)
+- [Current Work](#-current-adventures)
+- [Connect With Me](#-lets-connect)
+
 ## 💫 About Me | The Artist-Developer
 
 Hey there! I am a passionate IT graduate who bridges the gap between technology and creativity. I specialize in web development while nurturing a deep love for art. When I'm not crafting code, you'll find me creating art or exploring new ways to merge technology with creativity 🎨✨.
@@ -15,42 +23,51 @@ Hey there! I am a passionate IT graduate who bridges the gap between technology 
 - 💼 Former Developer & AI Prompt Engineer at SP Madrid & Associates
 - 🎨 Freelance Web Developer and Artist
 - 📍 Based in San Pedro City, Philippines
+- ⏰ Available for freelance projects and collaborations
 
 ### What I Bring to the Table 🌟
 - 💻 Full-stack web development expertise
 - 🎨 Traditional & digital art creation
 - 🎯 Creative problem-solving approach
 - 🔄 Bridging technology and artistry
+- 📱 Mobile-first, responsive design philosophy
+- 🎯 User-centered development approach
 
 ### Current Focus 🎯
 - 🚀 Exploring React, Laravel, and Vite
 - 🎨 Expanding digital illustration portfolio
 - 🌱 Diving into modern web frameworks
 - ✨ Creating immersive web experiences
+- 🔥 Learning advanced PHP patterns
+- 📊 Mastering database optimization
 
 ## 🛠️ Technical Arsenal & Creative Tools
 
-### 🎨 Creative Development
+### 🎨 Frontend Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🎨 Digital & Traditional Art
+### 🎨 Design & Creativity
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-### 🛠️ Backend Expertise
+### 🛠️ Backend & Database
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🔧 My Digital Workshop
+### 🔧 Development Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ## 📊 GitHub Analytics
 
@@ -63,7 +80,9 @@ Hey there! I am a passionate IT graduate who bridges the gap between technology 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shin-da&theme=tokyonight" alt="GitHub Streak Stats"/>
 </div>
 
-## 🌟 Digital Creations
+## 🌟 Featured Projects
+
+### 🏆 Project Showcase
 
 <div align="center">
   <p align="center">
@@ -74,25 +93,7 @@ Hey there! I am a passionate IT graduate who bridges the gap between technology 
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shin-da&repo=wedding-invitation&theme=tokyonight" />
     </a>
   </p>
-  <p align="center">
-    <a href="https://github.com/Shin-da/jeffmathew-portfolio">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shin-da&repo=jeffmathew-portfolio&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/josellecallora08/lark-automation-trainees">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=josellecallora08&repo=lark-automation-trainees&theme=tokyonight" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/Shin-da/ojt-tracking-system">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shin-da&repo=ojt-tracking-system&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/Shin-da/my-anime-list">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shin-da&repo=my-anime-list&theme=tokyonight" />
-    </a>
-  </p>
 </div>
-
-### 🏆 Featured Projects
 
 ### 🎓 [HFC Management System](https://github.com/Shin-da/henrich-food-corporation-system) | Enterprise Solution
 
@@ -155,8 +156,7 @@ Hey there! I am a passionate IT graduate who bridges the gap between technology 
 - 🌟 **Impact & Recognition**:
   - 📈 Increased operational efficiency by 40%
   - ⚡ Reduced data processing time by 60%
-  - 🏆 Academic Excellence Award
-  - 📱 Successfully deployed across multiple branches
+  - 📱 Successfully deployed on the branch
 
 ### 💑 [Digital Wedding Invitation](https://github.com/Shin-da/wedding-invitation) | Client Project
 
@@ -178,7 +178,7 @@ Hey there! I am a passionate IT graduate who bridges the gap between technology 
   Design       : Custom Animations, Responsive UI
   Performance  : 95/100 PageSpeed Score
   ```
-- 💫 **Key Features**:
+- �� **Key Features**:
   - 💌 Smart RSVP system with real-time updates
   - 📸 Animated photo gallery with lazy loading
   - 🎵 Ambient background music with controls
@@ -301,6 +301,27 @@ My digital playground where creativity meets professionalism 🎯
   - 🎯 User Experience Design
   - 🚀 Modern JavaScript Practices
 
+## 🎯 Current Adventures
+
+### 🚀 What I'm Building
+- 🔨 Crafting a **Smart CRM System** that makes business fun
+- 🎨 Creating beautiful, responsive web experiences
+- 📱 Developing mobile-first applications
+- 🌐 Building scalable web solutions
+
+### 📚 What I'm Learning
+- 🔥 Advanced PHP patterns and practices
+- 🌐 Exploring the **Laravel ecosystem** for scalable solutions
+- 📊 Database optimization techniques
+- 🎯 Advanced React patterns and hooks
+- 🔒 Security best practices
+
+### 💭 Fun Facts
+- 🎮 I debug code while listening to lo-fi beats
+- ☕ Coffee fuels my coding sessions
+- 🌙 Night owl who loves coding under the stars
+- 🎨 Art and code are my two passions
+- 🎯 Always learning something new
 
 ## 📫 Let's Connect!
 
@@ -318,25 +339,6 @@ My digital playground where creativity meets professionalism 🎯
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jepmachu)
 
 </div>
-
-
-## 🎯 Current Adventures
-
-<img align="right" width="300" src="https://your-coding-gif.gif" />
-
-### 🚀 What I'm Building
-- 🔨 Crafting a **Smart CRM System** that makes business fun
-- 🎨 Creating beautiful, responsive web experiences
-
-### 📚 What I'm Learning
-- 🔥 Advanced PHP patterns and practices
-- 🌐 Exploring the **Laravel ecosystem** for scalable solutions
-- 📊 Database optimization techniques
-
-### 💭 Fun Facts
-- 🎮 I debug code while listening to lo-fi beats
-- ☕ Coffee fuels my coding sessions
-- 🌙 Night owl who loves coding under the stars
 
 ---
 
