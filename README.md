@@ -1,35 +1,61 @@
-# Konnichiwa! 🌸 
+# Hello, I'm Jeff Mathew Garcia! 🎨 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Crafting+Digital+Experiences+✨;Web+Developer+By+Day;Problem+Solver+Always+🚀;Building+the+Future+💫" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Digital+%26+Traditional+Artist+%F0%9F%8E%A8;Creative+Problem+Solver+%F0%9F%8C%9F;Turning+Ideas+into+Reality+%E2%9C%A8" alt="Typing SVG" />
   
   <img src="https://raw.githubusercontent.com/Shin-da/Shin-da/main/assets/coding.gif" width="500" />
 </div>
 
-## 💫 About Me | 私について
+## 💫 About Me | The Artist-Developer
 
-Hey there! I'm a Web Developer with a passion for turning coffee ☕ into code. When I'm not crafting pixel-perfect websites, you'll find me exploring new technologies or trying to debug that one stubborn line of code (we all know that feeling! 😅).
+Hey there! I'm a unique blend of technologist and artist, bringing creative vision to every project I touch. When I'm not crafting elegant code, you'll find me creating art or exploring new ways to merge technology with creativity 🎨✨.
 
-### What Drives Me 🚀
-- 💻 Creating web experiences that make people smile
-- 🌱 Learning something new every single day
-- 🤝 Building connections in the tech community
-- 🎯 Turning ideas into reality through code
-- 🎮 Gaming enthusiast who loves problem-solving
+### Professional Journey 🚀
+- 🎓 BS Information Technology Graduate
+- 💼 Former Developer & AI Prompt Engineer at SP Madrid & Associates
+- 🎨 Freelance Web Developer and Digital Artist
+- 📍 Based in San Pedro City, Philippines
 
-## 🛠️ Technologies & Skills
-### 🎨 Frontend Artistry
+### What I Bring to the Table 🌟
+- 💻 Full-stack web development expertise
+- 🎨 Traditional & digital art creation
+- 🎯 Creative problem-solving approach
+- 🔄 Bridging technology and artistry
+
+### Current Focus 🎯
+- 🚀 Exploring React, Laravel, and Vite
+- 🎨 Expanding digital illustration portfolio
+- 🌱 Diving into modern web frameworks
+- ✨ Creating immersive web experiences
+
+## 🛠️ Technical Arsenal & Creative Tools
+
+### 🎨 Creative Development
 ```text
 ⭐⭐⭐⭐⭐ HTML5/CSS3
 ⭐⭐⭐⭐  JavaScript
-⭐⭐⭐   Bootstrap
+⭐⭐⭐⭐  UI/UX Design
+⭐⭐⭐   React
 ```
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-### 🛠️ Backend Magic
+### 🎨 Digital & Traditional Art
+```text
+⭐⭐⭐⭐⭐ Traditional Drawing
+⭐⭐⭐⭐  Digital Illustration
+⭐⭐⭐⭐  Character Design
+⭐⭐⭐   UI/UX Design
+```
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+### 🛠️ Backend Expertise
 ```text
 ⭐⭐⭐⭐⭐ PHP
 ⭐⭐⭐⭐  MySQL
