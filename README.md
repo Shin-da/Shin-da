@@ -1,7 +1,7 @@
 # Hello, I'm Jeff Mathew Garcia! 🎨 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Digital+%26+Traditional+Artist+%F0%9F%8E%A8;Creative+Problem+Solver+%F0%9F%8C%9F;Turning+Ideas+into+Reality+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Digital+%26+Traditional+Artist+%F0%9F%8E%A8;Creative+Problem+Solver+%F0%9F%8C%9F;Turning+Ideas+into+Reality+%E2%9C%A8;Anime+Enthusiast+%F0%9F%8E%8C" alt="Typing SVG" />
   
   <img src="https://raw.githubusercontent.com/Shin-da/Shin-da/main/assets/coding.gif" width="500" />
 </div>
@@ -213,9 +213,18 @@ My digital playground where creativity meets professionalism 🎯
 - 🎯 **Live**: [View Portfolio](https://shin-da.github.io/jeffmathew-portfolio)
 
 ### ⏱️ [OJT Tracking System](https://github.com/Shin-da/ojt-tracking-system) | Full-Stack Project
-<img align="right" width="300" src="https://raw.githubusercontent.com/Shin-da/ojt-tracking-system/main/demo.gif" />
 
-A comprehensive OJT management system built with modern web technologies 🚀
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Shin-da/ojt-tracking-system/main/demo.gif" alt="OJT Tracker Demo"/>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-Production-success?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Tech-React_18-blue?style=for-the-badge&logo=react" />
+    <img src="https://img.shields.io/badge/Efficiency-60%25↑-green?style=for-the-badge" />
+  </p>
+</div>
+
+> A comprehensive OJT management system built with modern web technologies, showcasing full-stack development expertise 🚀
 - 🛠️ **Tech Stack**:
   - 🎨 **Frontend**: React 18, Vite, TailwindCSS
   - 🔧 **Backend**: PHP, MySQL, Apache
@@ -254,6 +263,39 @@ A comprehensive OJT management system built with modern web technologies 🚀
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jepmachu)
 
 </div>
+
+### 🎬 [My Anime List](https://github.com/Shin-da/my-anime-list) | Personal Project
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Shin-da/my-anime-list/main/demo.gif" alt="Anime List Demo"/>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Type-Personal_Project-blueviolet?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/UI-Modern-pink?style=for-the-badge" />
+  </p>
+</div>
+
+> A passion project that combines my love for anime with web development. A modern, responsive anime tracking application that helps users manage their watch lists and discover new series. 🎭
+
+- 🎨 **Tech Stack**:
+  ```text
+  Frontend     : React, TailwindCSS
+  Backend      : Node.js/Express
+  Database     : MongoDB
+  API          : Jikan API (MyAnimeList)
+  ```
+- ✨ **Key Features**:
+  - 🎬 Comprehensive anime tracking system
+  - 📊 Personal rating and review system
+  - 🔍 Advanced search and filtering
+  - 📱 Responsive design for all devices
+  - 🌙 Dark/Light theme support
+- 🌟 **Learning Outcomes**:
+  - 🔄 API Integration
+  - 💾 NoSQL Database Management
+  - 🎯 User Experience Design
+  - 🚀 Modern JavaScript Practices
 
 ## 🎯 Current Adventures
 
