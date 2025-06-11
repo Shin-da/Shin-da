@@ -40,6 +40,8 @@ Hey there! I am a passionate IT graduate who bridges the gap between technology 
 - ✨ Creating immersive web experiences
 - 🔥 Learning advanced PHP patterns
 - 📊 Mastering database optimization
+- 🤖 Exploring AI and Machine Learning
+- 🧠 Studying Prompt Engineering
 
 ## 🛠️ Technical Arsenal & Creative Tools
 
@@ -68,6 +70,12 @@ Hey there! I am a passionate IT graduate who bridges the gap between technology 
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+### 🤖 AI & Machine Learning
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 📊 GitHub Analytics
 
@@ -178,7 +186,7 @@ Hey there! I am a passionate IT graduate who bridges the gap between technology 
   Design       : Custom Animations, Responsive UI
   Performance  : 95/100 PageSpeed Score
   ```
-- �� **Key Features**:
+- 🎯 **Key Features**:
   - 💌 Smart RSVP system with real-time updates
   - 📸 Animated photo gallery with lazy loading
   - 🎵 Ambient background music with controls
@@ -315,6 +323,9 @@ My digital playground where creativity meets professionalism 🎯
 - 📊 Database optimization techniques
 - 🎯 Advanced React patterns and hooks
 - 🔒 Security best practices
+- 🤖 AI and Machine Learning fundamentals
+- 🧠 Prompt Engineering techniques
+- 📈 Data analysis and visualization
 
 ### 💭 Fun Facts
 - 🎮 I debug code while listening to lo-fi beats
