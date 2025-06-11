@@ -197,6 +197,7 @@ A comprehensive OJT management system built with modern web technologies 🚀
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffmathew-garcia-a1b636347/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shin-da)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://shin-da.github.io/jeffmathew-portfolio)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffmathewg@gmail.com)
 
 ### 🎨 Social & Art Platforms
 
@@ -222,7 +223,7 @@ A comprehensive OJT management system built with modern web technologies 🚀
 
 ### 💭 Fun Facts
 - 🎮 I debug code while listening to lo-fi beats
-- 🍜 Ramen fuels my coding sessions
+- ☕ Coffee fuels my coding sessions
 - 🌙 Night owl who loves coding under the stars
 
 ---
