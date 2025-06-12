@@ -24,7 +24,7 @@ Hi! I’m a BS‑IT graduate who blends **enterprise‑grade engineering** with 
 
 | 🚀 Snapshot | 🎨 Mindset |
 |---|---|
-| • Ex‑Developer & Prompt Engineer @ **SP Madrid & Associates**<br>• Freelance full‑stack dev & illustrator<br>• Based in San Pedro City, Philippines | • Mobile‑first, user‑centred builds<br>• Passion for AI‑assisted creativity<br>• Always learning new tech & art styles |
+| • Ex‑Developer & Prompt Engineer Intern @ **SP Madrid Law & Associates**<br>• Freelance full‑stack dev & illustrator<br>• Based in San Pedro City, Philippines | • Mobile‑first, user‑centred builds<br>• Passion for AI‑assisted creativity<br>• Always learning new tech & art styles |
 
 ### Currently Focused On
 * React 19 + Vite powerhouse workflows
@@ -319,23 +319,10 @@ My digital playground where creativity meets professionalism 🎯
 
 ---
 
-## 🎯 Current Adventures
-
-### 🚀 What I'm Building
-- 🔨 Crafting a **Smart CRM System** that makes business fun
-- 🎨 Creating beautiful, responsive web experiences
-- 📱 Developing mobile-first applications
-- 🌐 Building scalable web solutions
-
-### 📚 What I'm Learning
-- 🔥 Advanced PHP patterns and practices
-- 🌐 Exploring the **Laravel ecosystem** for scalable solutions
-- 📊 Database optimization techniques
-- 🎯 Advanced React patterns and hooks
-- 🔒 Security best practices
-- 🤖 AI and Machine Learning fundamentals
-- 🧠 Prompt Engineering techniques
-- 📈 Data analysis and visualization
+## 🎯 Current Adventures  <a id="current-adventures"></a>
+* Building a **Smart CRM System** that makes business fun
+* Experimenting with generative‑AI in UX flows
+* Sketching daily to hone illustration skills
 
 ### 💭 Fun Facts
 - 🎮 I debug code while listening to lo-fi beats
