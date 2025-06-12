@@ -147,6 +147,8 @@ Hi! I’m a BS‑IT graduate who blends **enterprise‑grade engineering** with 
 
 </details>
 
+<br><hr>
+
 ### 💑 [Digital Wedding Invitation](https://github.com/Shin-da/wedding-invitation) | Client Project
 
 <div align="center">
