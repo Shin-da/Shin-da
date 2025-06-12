@@ -19,34 +19,18 @@
 
 ---
 
-## 💫 About Me | The Artist-Developer
+## 💫 About Me | The Artist‑Developer  <a id="about-me--the-artist-developer"></a>
+Hi! I’m a BS‑IT graduate who blends **enterprise‑grade engineering** with **visual design**.
 
-Hey there! I am a passionate IT graduate who bridges the gap between technology and creativity. I specialize in web development while nurturing a deep love for art. When I'm not crafting code, you'll find me creating art or exploring new ways to merge technology with creativity 🎨✨.
+| 🚀 Snapshot | 🎨 Mindset |
+|---|---|
+| • Ex‑Developer & Prompt Engineer @ **SP Madrid & Associates**<br>• Freelance full‑stack dev & illustrator<br>• Based in San Pedro City, Philippines | • Mobile‑first, user‑centred builds<br>• Passion for AI‑assisted creativity<br>• Always learning new tech & art styles |
 
-### Professional Journey 🚀
-- 🎓 BS Information Technology Graduate
-- 💼 Former Developer & AI Prompt Engineer at SP Madrid & Associates
-- 🎨 Freelance Web Developer and Artist
-- 📍 Based in San Pedro City, Philippines
-- ⏰ Available for freelance projects and collaborations
-
-### What I Bring to the Table 🌟
-- 💻 Full-stack web development expertise
-- 🎨 Traditional & digital art creation
-- 🎯 Creative problem-solving approach
-- 🔄 Bridging technology and artistry
-- 📱 Mobile-first, responsive design philosophy
-- 🎯 User-centered development approach
-
-### Current Focus 🎯
-- 🚀 Exploring React, Laravel, and Vite
-- 🎨 Expanding digital illustration portfolio
-- 🌱 Diving into modern web frameworks
-- ✨ Creating immersive web experiences
-- 🔥 Learning advanced PHP patterns
-- 📊 Mastering database optimization
-- 🤖 Exploring AI and Machine Learning
-- 🧠 Studying Prompt Engineering
+### Currently Focused On
+* React 19 + Vite powerhouse workflows
+* Deep‑dive into Laravel & advanced PHP
+* Database performance + security best practices
+* Prompt‑engineering & Gen‑AI UX
 
 ---
 
