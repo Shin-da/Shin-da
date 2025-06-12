@@ -104,7 +104,7 @@ Hey there! I am a passionate IT graduate who bridges the gap between technology 
 
 > A comprehensive ERP & E-commerce solution developed for Henrich Food Corporation as a capstone research project. This enterprise-grade system streamlines operations, enhances data accuracy, and provides real-time business analytics. 🏢
 <details>
-<summary>🔧 Click to view details </summary>
+<summary>🔧 Click to view more details </summary>
 - 🛠️ **Tech Stack**:
   - 🔧 **Backend**: PHP 7.4+, MySQL 5.7+ (MariaDB), Apache
   - 🎨 **Frontend**: HTML5/CSS3, JavaScript (ES6+), Bootstrap
@@ -172,6 +172,9 @@ Hey there! I am a passionate IT graduate who bridges the gap between technology 
 
 > An elegant and interactive digital wedding invitation platform that combines beautiful design with seamless functionality. Creating memorable digital experiences for special moments. ✨
 
+<details>
+<summary>🔧 Click to view more details </summary>
+  
 - 🎨 **Tech Artistry**:
   ```text
   Frontend     : HTML5, CSS3, JavaScript
@@ -190,10 +193,15 @@ Hey there! I am a passionate IT graduate who bridges the gap between technology 
   - 💝 Exceptional Client Satisfaction
   - ⚡ Optimal Performance Metrics
 
+</details>
+
 ### 🎨 [Personal Portfolio](https://github.com/Shin-da/jeffmathew-portfolio) | Digital Showcase
 <img align="right" width="300" src="https://raw.githubusercontent.com/Shin-da/jeffmathew-portfolio/main/demo.gif" />
 
 My digital playground where creativity meets professionalism 🎯
+<details>
+<summary>🔧 Click to view more details </summary>
+  
 - 🛠️ **Built With**: HTML5, CSS3, JavaScript
 - ✨ **Features**:
   - 🌓 Dynamic theme switcher
@@ -201,6 +209,8 @@ My digital playground where creativity meets professionalism 🎯
   - 📱 Responsive design
   - 🚀 Optimized performance
 - 🎯 **Live**: [View Portfolio](https://shin-da.github.io/jeffmathew-portfolio)
+
+</details>
 
 ### ⏱️ [OJT Tracking System](https://github.com/Shin-da/ojt-tracking-system) | Full-Stack Project
 
@@ -215,6 +225,10 @@ My digital playground where creativity meets professionalism 🎯
 </div>
 
 > A comprehensive OJT management system built with modern web technologies, showcasing full-stack development expertise 🚀
+
+<details>
+<summary>🔧 Click to view more details </summary>
+
 - 🛠️ **Tech Stack**:
   - 🎨 **Frontend**: React 18, Vite, TailwindCSS
   - 🔧 **Backend**: PHP, MySQL, Apache
@@ -237,6 +251,8 @@ My digital playground where creativity meets professionalism 🎯
   - 🤝 Adopted by multiple departments
   - 🌟 Featured in academic tech showcase
 
+</details>
+
 ### 🎓 [Gradify](https://github.com/josellecallora08/lark-automation-trainees) | Open Source Contribution
 
 <div align="center">
@@ -251,6 +267,9 @@ My digital playground where creativity meets professionalism 🎯
 
 > A sophisticated Python-based assessment system that revolutionizes trainee evaluation through asynchronous task processing. Contributing to the core functionality of trainee evaluation, helping shape the future of educational technology. 🎯
 
+<details>
+<summary>🔧 Click to view more details </summary>
+  
 - 🛠️ **Contribution Areas**:
   ```text
   Core Development : Evaluate Trainees Module
@@ -268,6 +287,8 @@ My digital playground where creativity meets professionalism 🎯
   - 🤝 Improved assessment accuracy
   - 📚 Contributed to educational technology
 
+</details>
+
 ### 🎬 [My Anime List](https://github.com/Shin-da/my-anime-list) | Personal Project
 
 <div align="center">
@@ -282,6 +303,9 @@ My digital playground where creativity meets professionalism 🎯
 
 > A passion project that combines my love for anime with web development. A modern, responsive anime tracking application that helps users manage their watch lists and discover new series. 🎭
 
+<details>
+<summary>🔧 Click to view more details </summary>
+  
 - 🎨 **Tech Stack**:
   ```text
   Frontend     : React, TailwindCSS
@@ -300,6 +324,7 @@ My digital playground where creativity meets professionalism 🎯
   - 💾 NoSQL Database Management
   - 🎯 User Experience Design
   - 🚀 Modern JavaScript Practices
+</details>
 
 ## 🎯 Current Adventures
 
