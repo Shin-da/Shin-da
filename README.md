@@ -147,7 +147,7 @@ Hi! I’m a BS‑IT graduate who blends **enterprise‑grade engineering** with 
 
 </details>
 
-<br><hr>
+<br>
 
 ### 💑 [Digital Wedding Invitation](https://github.com/Shin-da/wedding-invitation) | Client Project
 
@@ -186,6 +186,8 @@ Hi! I’m a BS‑IT graduate who blends **enterprise‑grade engineering** with 
 
 </details>
 
+<br>
+
 ### 🎨 [Personal Portfolio](https://github.com/Shin-da/jeffmathew-portfolio) | Digital Showcase
 <img align="right" width="300" src="https://raw.githubusercontent.com/Shin-da/jeffmathew-portfolio/main/demo.gif" />
 
@@ -202,6 +204,8 @@ My digital playground where creativity meets professionalism 🎯
 - 🎯 **Live**: [View Portfolio](https://shin-da.github.io/jeffmathew-portfolio)
 
 </details>
+
+<br>
 
 ### ⏱️ [OJT Tracking System](https://github.com/Shin-da/ojt-tracking-system) | Full-Stack Project
 
@@ -244,6 +248,8 @@ My digital playground where creativity meets professionalism 🎯
 
 </details>
 
+<br>
+
 ### 🎓 [Gradify](https://github.com/josellecallora08/lark-automation-trainees) | Open Source Contribution
 
 <div align="center">
@@ -280,6 +286,8 @@ My digital playground where creativity meets professionalism 🎯
 
 </details>
 
+<br>
+
 ### 🎬 [My Anime List](https://github.com/Shin-da/my-anime-list) | Personal Project
 
 <div align="center">
@@ -293,8 +301,6 @@ My digital playground where creativity meets professionalism 🎯
 </div>
 
 > A passion project that combines my love for anime with web development. A modern, responsive anime tracking application that helps users manage their watch lists and discover new series. 🎭
-
----
 
 <details>
 <summary>🔧 Click to view more details </summary>
@@ -319,6 +325,7 @@ My digital playground where creativity meets professionalism 🎯
   - 🚀 Modern JavaScript Practices
 </details>
 
+<br>
 ---
 
 ## 🎯 Current Adventures  <a id="current-adventures"></a>
