@@ -103,6 +103,8 @@ Hey there! I am a passionate IT graduate who bridges the gap between technology 
 </div>
 
 > A comprehensive ERP & E-commerce solution developed for Henrich Food Corporation as a capstone research project. This enterprise-grade system streamlines operations, enhances data accuracy, and provides real-time business analytics. 🏢
+<details>
+<summary>🔧 Click to view details </summary>
 - 🛠️ **Tech Stack**:
   - 🔧 **Backend**: PHP 7.4+, MySQL 5.7+ (MariaDB), Apache
   - 🎨 **Frontend**: HTML5/CSS3, JavaScript (ES6+), Bootstrap
@@ -153,6 +155,8 @@ Hey there! I am a passionate IT graduate who bridges the gap between technology 
   - 📈 Increased operational efficiency by 40%
   - ⚡ Reduced data processing time by 60%
   - 📱 Successfully deployed on the branch
+
+</details>
 
 ### 💑 [Digital Wedding Invitation](https://github.com/Shin-da/wedding-invitation) | Client Project
 
