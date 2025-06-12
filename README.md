@@ -1,10 +1,13 @@
-# Hello, I'm Jeff Mathew Garcia! 🎨 
+# Hello, I'm Jeff Mathew Garcia ! 🎨
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Digital+%26+Traditional+Artist+%F0%9F%8E%A8;Creative+Problem+Solver+%F0%9F%8C%9F;Turning+Ideas+into+Reality+%E2%9C%A8;Anime+Enthusiast+%F0%9F%8E%8C" alt="Typing SVG" />
-  
-  <img src="https://raw.githubusercontent.com/Shin-da/Shin-da/main/assets/coding.gif" width="500" />
-</div>
+<p align="center">
+  <!-- Lightweight animated intro (≈20 KB) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=Full‑Stack+Developer+%F0%9F%92%BB;Digital+%26+Traditional+Artist+%F0%9F%8E%A8;Creative+Problem+Solver+%F0%9F%8C%9F" alt="Typing introduction banner" loading="lazy" />
+</p>
+
+> **Developer × Artist — crafting code with creativity.**
+
+---
 
 ## 📋 Table of Contents
 - [About Me](#-about-me--the-artist-developer)
@@ -13,6 +16,8 @@
 - [GitHub Analytics](#-github-analytics)
 - [Current Work](#-current-adventures)
 - [Connect With Me](#-lets-connect)
+
+---
 
 ## 💫 About Me | The Artist-Developer
 
@@ -303,6 +308,8 @@ My digital playground where creativity meets professionalism 🎯
 
 > A passion project that combines my love for anime with web development. A modern, responsive anime tracking application that helps users manage their watch lists and discover new series. 🎭
 
+---
+
 <details>
 <summary>🔧 Click to view more details </summary>
   
@@ -325,6 +332,8 @@ My digital playground where creativity meets professionalism 🎯
   - 🎯 User Experience Design
   - 🚀 Modern JavaScript Practices
 </details>
+
+---
 
 ## 🎯 Current Adventures
 
@@ -350,6 +359,8 @@ My digital playground where creativity meets professionalism 🎯
 - 🌙 Night owl who loves coding under the stars
 - 🎨 Art and code are my two passions
 - 🎯 Always learning something new
+
+---
 
 ## 📫 Let's Connect!
 
