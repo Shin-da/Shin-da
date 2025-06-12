@@ -24,7 +24,7 @@ Hi! I’m a BS‑IT graduate who blends **enterprise‑grade engineering** with 
 
 | 🚀 Snapshot | 🎨 Mindset |
 |---|---|
-| • Ex‑Developer & Prompt Engineer Intern @ **SP Madrid Law & Associates**<br>• Freelance full‑stack dev & illustrator<br>• Based in San Pedro City, Philippines | • Mobile‑first, user‑centred builds<br>• Passion for AI‑assisted creativity<br>• Always learning new tech & art styles |
+| • Ex‑Developer & Prompt Engineer Intern @ **SP Madrid & Associates Law Firm**<br>• Freelance full‑stack dev & illustrator<br>• Based in San Pedro City, Philippines | • Mobile‑first, user‑centred builds<br>• Passion for AI‑assisted creativity<br>• Always learning new tech & art styles |
 
 ### Currently Focused On
 * React 19 + Vite powerhouse workflows
