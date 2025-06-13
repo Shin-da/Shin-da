@@ -62,7 +62,7 @@ Hi! I’m a BS‑IT graduate who blends **enterprise‑grade engineering** with 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shin-da&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shin-da&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
 ## 🌟 Featured Projects
