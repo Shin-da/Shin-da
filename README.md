@@ -82,6 +82,8 @@ Hi! I’m a BS‑IT graduate who blends **enterprise‑grade engineering** with 
 
 ### 🎓 [HFC Management System](https://github.com/Shin-da/henrich-food-corporation-system) | Enterprise Solution
 
+> A comprehensive ERP & E-commerce solution developed for Henrich Food Corporation as a capstone research project. This enterprise-grade system streamlines operations, enhances data accuracy, and provides real-time business analytics. 🏢
+
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/Shin-da/henrich-food-corporation-system/main/demo.gif" alt="HFC System Demo"/>
   
@@ -91,7 +93,6 @@ Hi! I’m a BS‑IT graduate who blends **enterprise‑grade engineering** with 
   </p>
 </div>
 
-> A comprehensive ERP & E-commerce solution developed for Henrich Food Corporation as a capstone research project. This enterprise-grade system streamlines operations, enhances data accuracy, and provides real-time business analytics. 🏢
 <details>
 <summary>🔧 Click to view more details </summary>
 - 🛠️ **Tech Stack**:
