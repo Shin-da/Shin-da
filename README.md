@@ -152,6 +152,9 @@ Hi! I’m a BS‑IT graduate who blends **enterprise‑grade engineering** with 
 
 ### 💑 [Digital Wedding Invitation](https://github.com/Shin-da/wedding-invitation) | Client Project
 
+
+> An elegant and interactive digital wedding invitation platform that combines beautiful design with seamless functionality. Creating memorable digital experiences for special moments. ✨
+
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/Shin-da/wedding-invitation/main/demo.gif" alt="Wedding Invitation Demo"/>
   
@@ -161,8 +164,6 @@ Hi! I’m a BS‑IT graduate who blends **enterprise‑grade engineering** with 
     <img src="https://img.shields.io/badge/RSVP_Rate-95%25-blue?style=for-the-badge" />
   </p>
 </div>
-
-> An elegant and interactive digital wedding invitation platform that combines beautiful design with seamless functionality. Creating memorable digital experiences for special moments. ✨
 
 <details>
 <summary>🔧 Click to view more details </summary>
@@ -210,6 +211,8 @@ My digital playground where creativity meets professionalism 🎯
 
 ### ⏱️ [OJT Tracking System](https://github.com/Shin-da/ojt-tracking-system) | Full-Stack Project
 
+> A comprehensive OJT management system built with modern web technologies, showcasing full-stack development expertise 🚀
+
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/Shin-da/ojt-tracking-system/main/demo.gif" alt="OJT Tracker Demo"/>
   
@@ -219,8 +222,6 @@ My digital playground where creativity meets professionalism 🎯
     <img src="https://img.shields.io/badge/Efficiency-60%25↑-green?style=for-the-badge" />
   </p>
 </div>
-
-> A comprehensive OJT management system built with modern web technologies, showcasing full-stack development expertise 🚀
 
 <details>
 <summary>🔧 Click to view more details </summary>
@@ -253,6 +254,9 @@ My digital playground where creativity meets professionalism 🎯
 
 ### 🎓 [Gradify](https://github.com/josellecallora08/lark-automation-trainees) | Open Source Contribution
 
+
+> A sophisticated Python-based assessment system that revolutionizes trainee evaluation through asynchronous task processing. Contributing to the core functionality of trainee evaluation, helping shape the future of educational technology. 🎯
+
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/josellecallora08/lark-automation-trainees/main/demo.gif" alt="Gradify Demo"/>
   
@@ -262,8 +266,6 @@ My digital playground where creativity meets professionalism 🎯
     <img src="https://img.shields.io/badge/Type-Assessment_System-orange?style=for-the-badge" />
   </p>
 </div>
-
-> A sophisticated Python-based assessment system that revolutionizes trainee evaluation through asynchronous task processing. Contributing to the core functionality of trainee evaluation, helping shape the future of educational technology. 🎯
 
 <details>
 <summary>🔧 Click to view more details </summary>
@@ -291,6 +293,9 @@ My digital playground where creativity meets professionalism 🎯
 
 ### 🎬 [My Anime List](https://github.com/Shin-da/my-anime-list) | Personal Project
 
+
+> A passion project that combines my love for anime with web development. A modern, responsive anime tracking application that helps users manage their watch lists and discover new series. 🎭
+
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/Shin-da/my-anime-list/main/demo.gif" alt="Anime List Demo"/>
   
@@ -300,8 +305,6 @@ My digital playground where creativity meets professionalism 🎯
     <img src="https://img.shields.io/badge/UI-Modern-pink?style=for-the-badge" />
   </p>
 </div>
-
-> A passion project that combines my love for anime with web development. A modern, responsive anime tracking application that helps users manage their watch lists and discover new series. 🎭
 
 <details>
 <summary>🔧 Click to view more details </summary>
