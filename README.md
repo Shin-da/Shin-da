@@ -151,12 +151,11 @@ Hi! I’m a BS‑IT graduate who blends **enterprise‑grade engineering** with 
 <br>
 
 ### 💑 [Digital Wedding Invitation](https://github.com/Shin-da/wedding-invitation) | Client Project
-
+ <img width="100%" src="https://raw.githubusercontent.com/Shin-da/wedding-invitation-preview.png" alt="Wedding Invitation Preview"/>
 
 > An elegant and interactive digital wedding invitation platform that combines beautiful design with seamless functionality. Creating memorable digital experiences for special moments. ✨
-
+> 
 <div align="center">
-   <img width="100%" src="https://raw.githubusercontent.com/Shin-da/Github-Profile/main/assets/wedding-invitation-preview.png" alt="Wedding Invitation Preview"/>
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Client_Satisfaction-100%25-brightgreen?style=for-the-badge" />
