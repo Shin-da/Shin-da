@@ -151,7 +151,7 @@ Hi! I’m a BS‑IT graduate who blends **enterprise‑grade engineering** with 
 <br>
 
 ### 💑 [Digital Wedding Invitation](https://github.com/Shin-da/wedding-invitation) | Client Project
- <img width="100%" src="https://raw.githubusercontent.com/Shin-da/wedding-invitation-preview.png" alt="Wedding Invitation Preview"/>
+![Website Preview](wedding-invitation-preview.png)
 
 > An elegant and interactive digital wedding invitation platform that combines beautiful design with seamless functionality. Creating memorable digital experiences for special moments. ✨
 > 
@@ -189,7 +189,7 @@ Hi! I’m a BS‑IT graduate who blends **enterprise‑grade engineering** with 
 <br>
 
 ### 🎨 [Personal Portfolio](https://github.com/Shin-da/jeffmathew-portfolio) | Digital Showcase
-<img align="center" width="100%" src="https://raw.githubusercontent.com/Shin-da/Github-Profile/main/assets/my-portfolio-preview.png" alt="Personal Portfolio Preview" />
+![Website Preview](my-portfolio.png)
 
 My digital playground where creativity meets professionalism 🎯
 <details>
