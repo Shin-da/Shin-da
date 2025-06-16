@@ -149,10 +149,10 @@ Hi! I’m a BS‑IT graduate who blends **enterprise‑grade engineering** with 
 
 <br>
 
-### 💑 [Digital Wedding Invitation](https://github.com/Shin-da/wedding-invitation) | Client Project
+### 💑 [Online Wedding Invitation with RSVP](https://github.com/Shin-da/wedding-invitation) | Client Project
 ![Website Preview](wedding-invitation-preview.png)
 
-> An elegant and interactive digital wedding invitation platform that combines beautiful design with seamless functionality. Creating memorable digital experiences for special moments. ✨
+> An elegant and interactive online wedding invitation platform that combines beautiful design with seamless functionality. Creating memorable digital experiences for special moments. ✨
 > 
 <div align="center">
   <p align="center">
