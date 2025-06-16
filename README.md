@@ -156,8 +156,7 @@ Hi! I’m a BS‑IT graduate who blends **enterprise‑grade engineering** with 
 > An elegant and interactive digital wedding invitation platform that combines beautiful design with seamless functionality. Creating memorable digital experiences for special moments. ✨
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Shin-da/wedding-invitation/main/demo.gif" alt="Wedding Invitation Demo"/>
-  
+   <img width="100%" src="https://raw.githubusercontent.com/Shin-da/Github-Profile/main/assets/wedding-invitation-preview.png" alt="Wedding Invitation Preview"/>
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Client_Satisfaction-100%25-brightgreen?style=for-the-badge" />
@@ -191,7 +190,7 @@ Hi! I’m a BS‑IT graduate who blends **enterprise‑grade engineering** with 
 <br>
 
 ### 🎨 [Personal Portfolio](https://github.com/Shin-da/jeffmathew-portfolio) | Digital Showcase
-<img align="right" width="300" src="https://raw.githubusercontent.com/Shin-da/jeffmathew-portfolio/main/demo.gif" />
+<img align="center" width="100%" src="https://raw.githubusercontent.com/Shin-da/Github-Profile/main/assets/my-portfolio-preview.png" alt="Personal Portfolio Preview" />
 
 My digital playground where creativity meets professionalism 🎯
 <details>
