@@ -85,7 +85,7 @@ Hi! I’m a BS‑IT graduate who blends **enterprise‑grade engineering** with 
 > A comprehensive ERP & E-commerce solution developed for Henrich Food Corporation as a capstone research project. This enterprise-grade system streamlines operations, enhances data accuracy, and provides real-time business analytics. 🏢
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Shin-da/henrich-food-corporation-system/main/demo.gif" alt="HFC System Demo"/>
+![Website Preview](hfc-preview.png)
   
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Production-success?style=for-the-badge" />
@@ -208,7 +208,7 @@ My digital playground where creativity meets professionalism 🎯
 <br>
 
 ### ⏱️ [OJT Tracking System](https://github.com/Shin-da/ojt-tracking-system) | Full-Stack Project
-
+![Website Preview](ojt-tracking-preview.png)
 > A comprehensive OJT management system built with modern web technologies, showcasing full-stack development expertise 🚀
 
 <div align="center">
@@ -252,7 +252,6 @@ My digital playground where creativity meets professionalism 🎯
 
 ### 🎓 [Gradify](https://github.com/josellecallora08/lark-automation-trainees) | Open Source Contribution
 
-
 > A sophisticated Python-based assessment system that revolutionizes trainee evaluation through asynchronous task processing. Contributing to the core functionality of trainee evaluation, helping shape the future of educational technology. 🎯
 
 <div align="center">
@@ -290,8 +289,7 @@ My digital playground where creativity meets professionalism 🎯
 <br>
 
 ### 🎬 [My Anime List](https://github.com/Shin-da/my-anime-list) | Personal Project
-
-
+![Website Preview](my-anime-list-preview.png)
 > A passion project that combines my love for anime with web development. A modern, responsive anime tracking application that helps users manage their watch lists and discover new series. 🎭
 
 <div align="center">
