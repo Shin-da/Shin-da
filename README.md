@@ -1,4 +1,4 @@
-# Hello, I'm Jeff Mathew Garcia ! 🎨
+# Hello, I'm Jeff Mathew! 🎨
 
 <p align="center">
   <!-- Lightweight animated intro (≈20 KB) -->
