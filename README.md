@@ -10,7 +10,7 @@ Or maybe just books. Either way, I see patterns—and turn them into systems.
 
 - Full-stack web (React + Vite, PHP/Laravel, MySQL)
 - UX-minded, mobile-first, security-aware
-- Ex Developer & Prompt Engineering Intern @ SP Madrid & Associates
+- Developer & Prompt Engineering Intern (OJT) — SP Madrid & Associates
 
 ---
 
@@ -19,7 +19,7 @@ Or maybe just books. Either way, I see patterns—and turn them into systems.
 ### HFC Management System — ERP/E-commerce (Capstone → Production pilot)
 End-to-end system covering inventory, orders, RBAC, and analytics.
 
-- **What I built:** modular PHP/MySQL backend, admin dashboards, realtime sockets, RBAC, audit logging.
+- **What I built:** modular PHP/MySQL backend, admin dashboards, realtime sockets, RBAC, audit logging.  
 - **Impact:** replaced spreadsheet workflows; automated reorder points; reduced manual steps **5 → 2** in inventory cycle.  
 - **Stack:** PHP, MySQL, Bootstrap, WebSockets, Composer, Git  
 - **Repo:** [`henrich-food-corporation-system`](https://github.com/Shin-da/henrich-food-corporation-system)
@@ -29,7 +29,7 @@ End-to-end system covering inventory, orders, RBAC, and analytics.
 ### OJT Tracking System — React/Vite full-stack
 A tracking platform with analytics, calendar heatmap, and PDF reporting.
 
-- **What I built:** React app (componentized), auth, charts, jsPDF exports; PHP API; MySQL schema.
+- **What I built:** React app (componentized), auth, charts, jsPDF exports; PHP API; MySQL schema.  
 - **Impact:** simplified documentation; centralized progress tracking for multiple departments.  
 - **Stack:** React, Vite, TailwindCSS, Chart.js, PHP, MySQL  
 - **Repo:** [`ojt-tracking-system`](https://github.com/Shin-da/ojt-tracking-system)
@@ -66,23 +66,23 @@ Repo: [`lark-automation-trainees`](https://github.com/josellecallora08/lark-auto
 
 ---
 
-## Now
+## Now (2025)
 
-- Designing a slim **CRM** experiment
-- Exploring **gen-AI UX** patterns
-- Sketching daily
+- Designing a slim **CRM** experiment  
+- Exploring **gen-AI UX** patterns  
+- Sketching daily  
 
 ---
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/jeffmathew-garcia-a1b636347/) ·
-[GitHub](https://github.com/Shin-da) ·
-[Portfolio](https://shin-da.github.io/jeffmathew-portfolio) ·
+[LinkedIn](https://www.linkedin.com/in/jeffmathew-garcia-a1b636347/) ·  
+[GitHub](https://github.com/Shin-da) ·  
+[Portfolio](https://shin-da.github.io/jeffmathew-portfolio) ·  
 Email: `jeffmathewg@gmail.com`
 
 <details>
 <summary>Fun (click)</summary>
 
-Lo-fi when debugging. Coffee when refactoring. Night owl tendencies. Art on the side.
+Lo-fi when debugging. Coffee when refactoring. Night owl, always sketching.
 </details>
