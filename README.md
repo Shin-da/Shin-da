@@ -1,4 +1,10 @@
-# Jeff Mathew — Developer × Artist
+# Developer × Artist
+
+I draw.  
+I code.  
+I read minds.  
+
+Or maybe just books. Either way, I see patterns—and turn them into systems.
 
 > I build practical systems with a designer’s eye. Sometimes I draw; always I ship.
 
