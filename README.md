@@ -10,7 +10,7 @@ I draw. I code. I ship.
 
 ## What I'm building
 
-**[Shin Studio](https://github.com/Shin-da)** — a web systems shop for Filipino businesses.  
+**[Shin.dev](https://shin-dev.infinityfreeapp.com)** — a web systems shop for Filipino businesses.  
 Custom websites, POS systems, student monitoring platforms, and more.
 
 **[TindaFlow](https://tindaflow.infinityfreeapp.com/)** — a web-based POS system built for Filipino small businesses.  
@@ -35,17 +35,6 @@ End-to-end system covering inventory, orders, RBAC, and analytics.
 
 **Stack:** PHP · MySQL · Bootstrap · WebSockets · Composer · Git  
 **Repo:** [`henrich-food-corporation-system`](https://github.com/Shin-da/henrich-food-corporation-system)
-
----
-
-### OJT Tracking System — React/Vite full-stack
-Tracking platform with analytics, calendar heatmap, and PDF reporting.
-
-- Componentized React app with auth, charts, and jsPDF exports
-- Centralized progress tracking across multiple departments
-
-**Stack:** React · Vite · TailwindCSS · Chart.js · PHP · MySQL  
-**Repo:** [`ojt-tracking-system`](https://github.com/Shin-da/ojt-tracking-system)
 
 ---
 
@@ -98,7 +87,7 @@ Repo: [`jeffmathew-portfolio`](https://github.com/Shin-da/jeffmathew-portfolio)
 [LinkedIn](https://www.linkedin.com/in/jeffmathew-garcia-a1b636347/) ·
 [Portfolio](https://shin-da.github.io/jeffmathew-portfolio) ·
 [TindaFlow](#) ·
-Email: jeffmathewg@gmail.com
+Email: shinshinu04@gmail.com
 
 ---
 
