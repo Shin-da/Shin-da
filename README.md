@@ -1,5 +1,5 @@
 # Shin (Jeffmathew Garcia)
-**IT Support Specialist · Full Stack Web Developer · Founder, Shin Studio**
+**IT Support Specialist · Full Stack Web Developer · Founder, Shin.dev**
 
 I build practical web systems for Filipino businesses — from the ground up.  
 I draw. I code. I ship.
@@ -13,7 +13,7 @@ I draw. I code. I ship.
 **[Shin Studio](https://github.com/Shin-da)** — a web systems shop for Filipino businesses.  
 Custom websites, POS systems, student monitoring platforms, and more.
 
-**[TindaFlow](#)** — a web-based POS system built for Filipino small businesses.  
+**[TindaFlow](https://tindaflow.infinityfreeapp.com/)** — a web-based POS system built for Filipino small businesses.  
 Lightweight, practical, and designed for the local market.
 
 ---
@@ -61,9 +61,6 @@ Repo: [`wedding-invitation`](https://github.com/Shin-da/wedding-invitation)
 Live: https://shin-da.github.io/jeffmathew-portfolio  
 Repo: [`jeffmathew-portfolio`](https://github.com/Shin-da/jeffmathew-portfolio)
 
-**Gradify (contrib)** — Python assessment platform. Focus: async processing and evaluation flow.  
-Repo: [`lark-automation-trainees`](https://github.com/josellecallora08/lark-automation-trainees)
-
 </details>
 
 ---
@@ -80,7 +77,7 @@ Repo: [`lark-automation-trainees`](https://github.com/josellecallora08/lark-auto
 
 ## Now — 2026
 
-- Establishing **Shin Studio** — web systems for Filipino businesses (POS, student monitoring, custom platforms)
+- Establishing **Shin.dev** — web systems for Filipino businesses (POS, student monitoring, custom platforms)
 - Growing **TindaFlow** — adding features and onboarding early users
 - Open to permanent IT support or developer roles
 - Sketching daily — UI concepts and personal art
