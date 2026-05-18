@@ -84,10 +84,7 @@ Repo: [`jeffmathew-portfolio`](https://github.com/Shin-da/jeffmathew-portfolio)
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/jeffmathew-garcia-a1b636347/) ·
-[Portfolio](https://shin-da.github.io/jeffmathew-portfolio) ·
-[TindaFlow](#) ·
-Email: shinshinu04@gmail.com
+Email: jeffmathewg@gmail.com
 
 ---
 
