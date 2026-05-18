@@ -10,10 +10,10 @@ I draw. I code. I ship.
 
 ## What I'm building
 
-**[Shin.dev](https://itsshin.dev/)** — a web systems shop for Filipino businesses.  
+**Shin.dev** — a web systems shop for Filipino businesses.  
 Custom websites, POS systems, student monitoring platforms, and more.
 
-**[TindaFlow](https://tindaflow.itsshin.dev/)** — a web-based POS system built for Filipino small businesses.  
+**TindaFlow** — a web-based POS system built for Filipino small businesses.  
 Lightweight, practical, and designed for the local market.
 
 ---
