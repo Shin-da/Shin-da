@@ -1,91 +1,41 @@
-# Shin (Jeffmathew Garcia)
-**IT Specialist · Full Stack Web Developer · Founder, Shin.dev**
+# Jeffmathew Garcia — Shin
 
-I build practical web systems for Filipino businesses — from the ground up.  
-I draw. I code. I ship.
+**Developer. Artist. Builder.**  
+Full-stack developer and systems builder from the Philippines.
 
-> Building systems with a designer's eye. Sometimes I sketch; always I ship.
+I build things end to end — from schema design and backend logic to deployment and UI. My work tends to sit at the intersection of technical precision and intentional design. I care about how things work and how they feel.
 
 ---
 
 ## What I'm building
 
-**Shin.dev** — a web systems shop for Filipino businesses.  
-Custom websites, POS systems, student monitoring platforms, and more.
+**[TindaFlow](https://tindaflow.itsshin.dev)** — A POS system for Filipino small businesses. Built because the affordable options didn't exist.
 
-**TindaFlow** — a web-based POS system built for Filipino small businesses.  
-Lightweight, practical, and designed for the local market.
+**CosCard** — A portfolio platform for the Philippine cosplay community. Started as a gift, grew into a platform.
+
+**BrainOS** — A personal operating system I'm building for myself. Local-first, SQLite-backed, Docker on WSL2. Not a product — infrastructure.
+
+---
+
+## Stack
+
+`PHP` `JavaScript` `Python` `SQL` `Node.js` `HTML/CSS`  
+`Next.js` `Supabase` `PostgreSQL` `MySQL` `Docker` `DigitalOcean`
 
 ---
 
 ## Selected work
 
-### TindaFlow — Web POS for Filipino businesses `[Live Product]`
-A practical point-of-sale web app built for small Filipino businesses — sales tracking, inventory, and reporting without the enterprise overhead.  
-**Stack:** PHP · MySQL · JavaScript · HTML/CSS
+| Project | What it is | Stack |
+|---|---|---|
+| TindaFlow | POS SaaS for Filipino SMBs | PHP, MySQL |
+| HFC Management System | End-to-end ERP — replaced spreadsheets, cut manual steps from 5 to 2 | PHP, MySQL, WebSockets |
+| Operations & Data Platform | Data infra + automation for a multi-company US operator (~179K records migrated) | Node.js, PostgreSQL, Python |
+| CosCard | Cosplayer portfolio platform | Next.js, Supabase, Prisma |
 
 ---
 
-### HFC Management System — ERP / E-commerce `[Capstone → Production pilot]`
-End-to-end system covering inventory, orders, RBAC, and analytics.
+## Contact
 
-- Modular PHP/MySQL backend, admin dashboards, realtime WebSockets, audit logging
-- Replaced spreadsheet workflows; automated reorder points
-- **Reduced manual steps 5 → 2** in the inventory cycle
-
-**Stack:** PHP · MySQL · Bootstrap · WebSockets · Composer · Git  
-**Repo:** [`henrich-food-corporation-system`](https://github.com/Shin-da/henrich-food-corporation-system)
-
----
-
-<details>
-<summary>More projects</summary>
-
-**Appointment System** — web platform for booking and client management for service-based businesses.
-
-**Online Wedding Invitation + RSVP** — responsive invite with live RSVP and media.  
-Repo: [`wedding-invitation`](https://github.com/Shin-da/wedding-invitation)
-
-**Personal Portfolio** — minimal, fast, responsive.  
-Live: https://shin-da.github.io/jeffmathew-portfolio  
-Repo: [`jeffmathew-portfolio`](https://github.com/Shin-da/jeffmathew-portfolio)
-
-</details>
-
----
-
-## Skills
-
-**Frontend:** React · JavaScript/TypeScript · TailwindCSS · HTML/CSS  
-**Backend:** PHP/Laravel · Node.js/Express · Python  
-**Data:** MySQL · MongoDB  
-**IT Support:** Microsoft 365 · Active Directory (ADUC) · Entra ID · NableRMM · HaloPSA  
-**Tooling:** Git/GitHub · Vite · Docker (basics) · Prompt engineering · UI prototyping
-
----
-
-## Now — 2026
-
-- Establishing **Shin.dev** — web systems for Filipino businesses (POS, student monitoring, custom platforms)
-- Growing **TindaFlow** — adding features and onboarding early users
-- Open to permanent IT support or developer roles
-- Sketching daily — UI concepts and personal art
-
----
-
-## Stats
-
-- 10+ production web apps shipped
-- 15+ IT clients supported (MSP, Level 1 remote support)
-- 4 years freelance development
-- BSIT Graduate — GWA 1.60, Pamantasan ng Lungsod ng Muntinlupa
-
----
-
-## Connect
-
-Email: jeffmathewg@gmail.com
-
----
-
-*Lo-fi when debugging. Coffee when refactoring. Night owl, always sketching.*
+[itsshin.dev](https://itsshin.dev) — studio and contact form  
+[linkedin.com/in/jeffmathew-garcia-a1b636347](https://linkedin.com/in/jeffmathew-garcia-a1b636347)
