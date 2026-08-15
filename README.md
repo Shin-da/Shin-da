@@ -35,7 +35,3 @@ I build things end to end — from schema design and backend logic to deployment
 
 ---
 
-## Contact
-
-[itsshin.dev](https://itsshin.dev) — studio and contact form  
-[linkedin.com/in/jeffmathew-garcia-a1b636347](https://linkedin.com/in/jeffmathew-garcia-a1b636347)
