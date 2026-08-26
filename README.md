@@ -7,16 +7,6 @@ I build things end to end — from schema design and backend logic to deployment
 
 ---
 
-## What I'm building
-
-**[TindaFlow](https://tindaflow.itsshin.dev)** — A POS system for Filipino small businesses. Built because the affordable options didn't exist.
-
-**CosCard** — A portfolio platform for the Philippine cosplay community. Started as a gift, grew into a platform.
-
-**BrainOS** — A personal operating system I'm building for myself. Local-first, SQLite-backed, Docker on WSL2. Not a product — infrastructure.
-
----
-
 ## Stack
 
 `PHP` `JavaScript` `Python` `SQL` `Node.js` `HTML/CSS`  
